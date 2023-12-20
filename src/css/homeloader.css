@@ -1,0 +1,15 @@
+.center_complete {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.animate_item {
+    width: 3.125rem;
+    height: 3.125rem;
+    border-radius: 0.75rem;
+    background: var(--Primary-color, #003F91);
+}
